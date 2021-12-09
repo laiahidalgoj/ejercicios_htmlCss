@@ -1,0 +1,14 @@
+img.flor {
+    width: 420px;
+    position: relative;
+}
+
+p.txt_flor {
+    position: absolute;
+    top: 292px;
+    background-color: rgba(0, 0, 0, 0.582);
+    color: rgb(255, 255, 255);
+    width: 380px;
+    height: 14px;
+    padding: 19px;
+}

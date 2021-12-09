@@ -1,0 +1,15 @@
+p {
+    color: rgb(11, 72, 141);
+}
+
+.miparrafo {
+    color: rgb(255, 0, 221);
+}
+
+div p {
+    color: orange;
+}
+
+div p.miparrafo {
+    color: rgb(7, 114, 39);
+}
