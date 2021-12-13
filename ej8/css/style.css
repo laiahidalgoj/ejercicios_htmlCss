@@ -1,0 +1,20 @@
+h1 {
+    margin-left: 200px;
+    padding: 20px;
+    font-size: 50px;
+    color: #7818d1;
+}
+
+.btn-secondary {
+    justify-content: center;
+    margin: 20px;
+    color: #fff;
+    background-color: #8256ac;
+}
+
+.btn-secondary:hover {
+    justify-content: center;
+    margin: 20px;
+    color: #fff;
+    background-color: #44186e;
+}
