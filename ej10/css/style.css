@@ -1,0 +1,42 @@
+.cuadrado {
+    height: 500px;
+    width: 800px;
+    background-color: rgb(143, 5, 28);
+}
+
+@media screen AND (max-width: 800px){
+    .cuadrado {
+        background-color: rgb(1, 56, 1);
+        width: 100%;
+    }
+}
+
+#video{
+    right: 0;
+    bottom: 0;
+   /*  min-width: 50%;
+    min-height: 50%; */
+    padding: 20px 0;
+    height: 70%;
+    width: 90%;
+}
+
+@media screen AND (max-width: 800px) {
+    #video {
+        width: 100%;
+    }
+}
+
+@media screen AND (max-width: 600px) {
+    .video{
+        background-image: url("../photo.jpg");
+        background-size: 100%;
+        background-repeat: no-repeat;
+        margin-top: 20px;
+    }
+    #video {
+        opacity: 0;
+    }
+} 
+
+
