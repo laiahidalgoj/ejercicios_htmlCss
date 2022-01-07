@@ -1,0 +1,20 @@
+body{
+    padding: 20px;
+}
+
+h2{
+    color:rgb(232, 154, 37);
+    display: flex;
+    justify-content: center;
+
+}
+
+h3{
+    color:rgb(232, 154, 37);
+    display: flex;
+    justify-content: center;
+}
+
+.progress{
+    margin: 20px;
+}
