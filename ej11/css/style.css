@@ -1,0 +1,5 @@
+.text{
+    display: flex;
+    color: rgb(114, 78, 125);
+    justify-content: center;
+}
